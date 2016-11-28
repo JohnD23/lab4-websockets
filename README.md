@@ -10,7 +10,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 612595 | BELTRÁN PIÑOL, VÍCTOR 
 683326 | BINTANED BASA, JESÚS 
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
-750846 | DAVID MOLINA, JOHN ALEXIS 
+750846 | DAVID MOLINA, JOHN ALEXIS | [test repo](https://github.com/JohnD23/lab4-websockets/tree/test) | [![Build Status](https://api.travis-ci.org/JohnD23/lab4-websockets.svg?branch=test)](https://travis-ci.org/JohnD23/lab4-websockets)
 529361 | DUMITRACHE , CATALIN  CONSTANTIN 
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
 680669 | GUIU PÉREZ, ALEJANDRO 
